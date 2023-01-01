@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sayudhawebdesign/learnPhaser-1#readme",
   "dependencies": {
-    "phaser": "^3.20.0"
+    "phaser": "^3.55.2"
   }
 }
